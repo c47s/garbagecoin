@@ -1,2 +1,2 @@
-# shittycoin
-Horrible algorithm for a terrible crypto. Do not waste any of your braincells on this please. I beg you.
+# garbagecoin
+Horrible algorithm for a terrible crypto. For educational purposes.
